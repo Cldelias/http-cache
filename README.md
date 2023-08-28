@@ -2,5 +2,5 @@
 
 ## Integrantes do Grupo
 
-Clodoaldo Elias - Matricula 177059
-João Otavio Bovoloni - Matricula 179793    
+ - Clodoaldo Elias - Matricula 177059
+ - João Otavio Bovoloni - Matricula 179793    
